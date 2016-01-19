@@ -1,3 +1,5 @@
 # hello-world
-My first git-hub repository
+
+My first GitHub repository
+
 My name is Rahul, I love :soccer:
